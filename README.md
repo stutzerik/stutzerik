@@ -16,7 +16,7 @@
 </head>
 <body>
     <h1 align="center">Hello, I'm Erik. 🙌</h1>
-     <p align="center">
+     <p align="center" style="font-size: 16px;">
          <i>Thank you for visiting my site. Allow me to introduce myself briefly.</i><br>
        I'm a DevOps operations and web development guy. My specialization is creating web interfaces for IT infrastructure providers (IaaS) to manage their services -        developing cloud hosting platforms. For this reason, I place great emphasis on network security and virtualization technologies in addition to development.
      </p>
