@@ -31,7 +31,7 @@
         <img width="75" src="tech_logos/linux.png" alt="Linux" title="Linux"/>
         <img width="75" src="tech_logos/openvz.png" alt="OpenVZ" title="OpenVZ"/>
         <img width="150" src="tech_logos/kvm.png" alt="KVM" title="KVM"/>
-        <img width="150" src="tech_logos/sql2.png" alt="SQL" title="SQL"/>
+        <img width="75" src="tech_logos/sql2.png" alt="SQL" title="SQL"/>
     </p>
 </body>
 </html>
