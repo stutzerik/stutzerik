@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stütz Erik's GitHub profile</title>
     <meta name="description" content="Stütz Erik's GitHub profile - DevOps, Developer, PhP, Python, React, Linux, VMs">
     <meta name="keywords" content="DevOps, Developer, PhP, Python, React, Linux, VMs">
     <meta name="author" content="Stütz Erik">
     <meta name="robots" content="index, follow">
     <meta name="revisit-after" content="1 Week">
     <meta name="distribution" content="local">
-     <meta name="rating" content="general">
+    <meta name="rating" content="general">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
+
 </head>
 <body>
     <h1 align="center">Hello, I'm Erik.</h1>
