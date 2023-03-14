@@ -16,7 +16,7 @@
 </head>
 <body>
     <h1 align="center">Hello, I'm Erik.</h1>
-     <p align="center">
+     <p class="text-center lead py-3">
        Thank you for visiting my site. Allow me to introduce myself briefly.<br>
        I'm a DevOps operations and web development guy. My specialization is creating web interfaces for IT infrastructure providers (IaaS) to manage their services -        developing cloud hosting platforms.
      </p>
