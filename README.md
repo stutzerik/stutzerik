@@ -22,6 +22,9 @@
      </p>
     <h2>Technologies used by me</h2>
     <p>I use these technologies during development. If I claim to know a technology, I don't just know the basics, I've studied and used it in depth.</p>
-    <img width="55" src="tech_logos/docker.png"/>
+    <img width="55" src="tech_logos/php.png"/>
+    <img width="55" src="tech_logos/python.png"/>
+    <img width="55" src="tech_logos/react.png"/>
+    <img width="55" src="tech_logos/laravel.png"/>
 </body>
 </html>
