@@ -23,16 +23,16 @@
     <h2>Technologies used by me</h2>
     <p>I use these technologies during development. If I claim to know a technology, I don't just know the basics, I've studied and used it in depth.</p>
     <p float="left">
-        <img width="75" src="tech_logos/php.png"/>
-        <img width="75" src="tech_logos/python.png"/>
-        <img width="75" src="tech_logos/react.png"/>
-        <img width="75" src="tech_logos/laravel.png"/>
-        <img width="75" src="tech_logos/vuejs.png"/>
-        <img width="75" src="tech_logos/docker.png"/>
-        <img width="75" src="tech_logos/linux.png"/>
-        <img width="75" src="tech_logos/openvz.png"/>
-        <img width="150" src="tech_logos/kvm.png"/>
-        <img width="150" src="tech_logos/sql.png"/>
+        <img width="75" src="tech_logos/php.png" alt="PhP" title="PhP" />
+        <img width="75" src="tech_logos/python.png" alt="Python" title="Python"/>
+        <img width="75" src="tech_logos/react.png" alt="ReactJS" title="ReactJS"/>
+        <img width="75" src="tech_logos/laravel.png" alt="Laravel" title="Laravel"/>
+        <img width="75" src="tech_logos/vuejs.png" alt="VueJS (material)" title="VueJS (material)"/>
+        <img width="75" src="tech_logos/docker.png" alt="Docker" title="Docker"/>
+        <img width="75" src="tech_logos/linux.png" alt="Linux" title="Linux"/>
+        <img width="75" src="tech_logos/openvz.png" alt="OpenVZ" title="OpenVZ"/>
+        <img width="150" src="tech_logos/kvm.png" alt="KVM" title="KVM"/>
+        <img width="150" src="tech_logos/sql.png" alt="SQL" title="SQL"/>
     </p>
 </body>
 </html>
