@@ -22,6 +22,6 @@
      </p>
     <h2>Technologies used by me</h2>
     <p>I use these technologies during development. If I claim to know a technology, I don't just know the basics, I've studied and used it in depth.</p>
-    <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nativescript.svg"/>
+    <img width="55" src="tech_logos/docker.png"/>
 </body>
 </html>
