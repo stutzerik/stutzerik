@@ -27,7 +27,6 @@
         <img width="75" src="tech_logos/python.png" alt="Python" title="Python"/>
         <img width="75" src="tech_logos/react.png" alt="ReactJS" title="ReactJS"/>
         <img width="75" src="tech_logos/laravel.png" alt="Laravel" title="Laravel"/>
-        <img width="75" src="tech_logos/vuejs.png" alt="VueJS (material)" title="VueJS (material)"/>
         <img width="75" src="tech_logos/docker.png" alt="Docker" title="Docker"/>
         <img width="75" src="tech_logos/linux.png" alt="Linux" title="Linux"/>
         <img width="75" src="tech_logos/openvz.png" alt="OpenVZ" title="OpenVZ"/>
