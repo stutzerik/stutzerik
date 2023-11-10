@@ -24,7 +24,6 @@
     <p>I use these technologies during development. If I claim to know a technology, I don't just know the basics, I've studied and used it in depth.</p>
     <p float="left">
         <img width="75" src="tech_logos/php.png" alt="PhP" title="PhP" />
-        <img width="75" src="tech_logos/python.png" alt="Python" title="Python"/>
         <img width="75" src="tech_logos/react.png" alt="ReactJS" title="ReactJS"/>
         <img width="75" src="tech_logos/laravel.png" alt="Laravel" title="Laravel"/>
         <img width="75" src="tech_logos/docker.png" alt="Docker" title="Docker"/>
